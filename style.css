@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Red Rose", cursive;
+}
+
+body{
+  background-color: #494949;
+}
+
+.head{
+  margin-top: 30px;
+  margin-left: 50px;
+  display: flex;
+  
+}
+
+nav{
+font-size: larger;
+margin-top: 15px;
+margin-left: 400px;
+color: white;
+  
+}
+
+.head-one a{
+  text-decoration: none;
+  margin-left: 30px;
+  color: white;
+}
+
+.btn{
+  margin-left: 40px;
+  color: green;
+  padding: 0.9em 1.2em;
+  border-radius: 5px;
+  background-color: transparent;
+  border-color: green;
+  font-weight: bolder;
+  font-size: 18px;
+}
+.text{
+  color: white;
+  font-weight: bolder;
+
+}
+
+.text h1{
+  font-size: 80px;
+  margin-top: 50px;
+  margin-left: 30px;
+  font-weight: bolder;
+}
+
+.text h4{
+  font-size: 20px;
+  float: right;
+  margin-top: -150px;
+  margin-right: 250px;
+  font-weight: 400;
+}
+
+.img{
+  margin-top: 40px;
+}
